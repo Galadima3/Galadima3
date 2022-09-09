@@ -19,8 +19,4 @@ I'm John Abraham and I create unique Cross-platform mobile applications using Fl
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galadima3)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Galadima3&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Galadima3)  
