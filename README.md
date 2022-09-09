@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm John Abraham and I create unique Cross-platform mobile applications using Flutter framework. I enjoy working on mobile applications and bringing UI templates to life.   
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Galadima3)](https://git.io/streak-stats)
+
 <!--
 **Galadima3/Galadima3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
