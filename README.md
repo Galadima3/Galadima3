@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Galadima3
-#### Flutter Mobile Developer
+# Hi there 👋, My name is Galadima3
+## Flutter Mobile Developer
 ![Flutter Mobile Developer](https://pbs.twimg.com/profile_banners/1081867674517413888/1641036248/600x200)
 
 I'm John Abraham and I create unique Cross-platform mobile applications using Flutter framework. I enjoy working on mobile applications and bringing UI templates to life.
