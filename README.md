@@ -4,7 +4,11 @@
 
 I'm John Abraham and I create unique Cross-platform mobile applications using Flutter framework. I enjoy working on mobile applications and bringing UI templates to life.
 
-Skills: DART / FLUTTER / PYTHON / JAVA 
+## Skills: 
+* Dart 🎯
+* Flutter 📱💙 
+* Python 🐍
+* JAVA 💻
 
 
 - 🌱 I’m currently learning Flutter Full Stack Development 
