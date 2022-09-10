@@ -24,3 +24,5 @@ I'm John Abraham and I create unique Cross-platform mobile applications using Fl
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Galadima3&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Galadima3)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Galadima3)  
+
