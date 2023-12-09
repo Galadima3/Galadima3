@@ -1,62 +1,25 @@
-# Flutter Developer Portfolio
+<h1 align="center">Hi 👋, I'm John Galadima</h1>
+<h3 align="center">A passionate mobile developer from Nigeria</h3>
 
-Welcome to my Flutter Developer Portfolio! 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galadima3" alt="galadima3" /></a> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/galadima3x" target="blank"><img src="https://img.shields.io/twitter/follow/galadima3x?logo=twitter&style=for-the-badge" alt="galadima3x" /></a> </p>
 
-I am a passionate Flutter developer dedicated to creating high-quality, visually appealing, and performant mobile applications. With a strong background in software development and a keen eye for design, I strive to deliver delightful user experiences.
+- 🌱 I’m currently learning **Flutter & Dart**
 
-## Skills
+- 📝 I regularly write articles on [https://galadima3.hashnode.dev](https://galadima3.hashnode.dev)
 
-- **Flutter:** Building cross-platform mobile applications with a focus on expressive UI and smooth animations.
-- **Dart:** Proficient in Dart programming language, the foundation of Flutter development.
-- **State Management:** Experience with various state management solutions like Provider, Riverpod, and Bloc.
-- **UI/UX Design:** Adept at creating engaging and user-friendly interfaces.
-- **API Integration:** Connecting Flutter apps with RESTful APIs for seamless data retrieval.
-- **Firebase:** Utilizing Firebase services for authentication, cloud storage, and real-time databases.
-- **Version Control:** Proficient in Git for collaborative development and version control.
+- 📫 How to reach me **abrahamgaladima300@gmail.com**
 
-## Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/galadima3x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="galadima3x" height="30" width="40" /></a>
+<a href="https://hashnode.com/@mylez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@mylez" height="30" width="40" /></a>
+</p>
 
-### Project 1: Awesome Flutter App
-- Description: A feature-rich Flutter application showcasing my skills in UI design and state management.
-- GitHub Repo: [Awesome Flutter App](https://github.com/yourusername/awesome-flutter-app)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-### Project 2: Flutter Weather App
-- Description: A weather application built with Flutter, providing real-time weather updates.
-- GitHub Repo: [Flutter Weather App](https://github.com/yourusername/flutter-weather-app)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=galadima3&show_icons=true&locale=en&layout=compact" alt="galadima3" /></p>
 
-## Open Source Contributions
-
-I actively contribute to the Flutter community by participating in open source projects. Here are a few notable contributions:
-
-- [Flutter Repository](https://github.com/flutter/flutter)
-- [Dart Repository](https://github.com/dart-lang/sdk)
-
-## Blog
-
-I share my insights and experiences in Flutter development through my blog. Check it out for tutorials, tips, and in-depth articles:
-
-[My Flutter Blog](https://galadima3.hashnode.dev/)
-
-
-## Let's Connect!
-
-Let's connect and build something amazing together! 😊🚀
-
----
-
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Galadima3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://galadima3.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mylez_kayn/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Galadima3X)  
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galadima3)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Galadima3&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/Galadima3)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Galadima3)  
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galadima3&show_icons=true&locale=en" alt="galadima3" /></p>
