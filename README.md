@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Galadima</h1>
-<h3 align="center">Passionate Flutter developer from Nigeria</h3>
+![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/Galadima3/Galadima3/assets/92538514/1e458660-ab9d-44ac-a136-d0f0b63ca63a)
 
 🌱 I’m currently learning **Dart & Flutter**
 
@@ -18,6 +17,7 @@
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
