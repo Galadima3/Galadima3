@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Galadima</h1>
-<h3 align="center">A passionate mobile developer from Nigeria</h3>
+<h3 align="center">Skilled Mobile developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **Flutter & Dart**
+🌱 I’m currently learning **Flutter & Dart**
 
-- 📝 I regularly write articles on [https://galadima3.hashnode.dev](https://galadima3.hashnode.dev)
+📝 I regularly write articles on [https://galadima3.hashnode.dev](https://galadima3.hashnode.dev)
 
-- 📫 How to reach me **abrahamgaladima300@gmail.com**
+📫 How to reach me **abrahamgaladima300@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
