@@ -1,4 +1,4 @@
-![Black Minimalist Corporate Business Profile LinkedIn Banner](https://github.com/Galadima3/Galadima3/assets/92538514/1e458660-ab9d-44ac-a136-d0f0b63ca63a)
+![banner](https://github.com/Galadima3/Galadima3/assets/92538514/113cb8cf-4484-492d-a7a2-c8745e0e1622)
 
 🌱 I’m currently learning **Dart & Flutter**
 
