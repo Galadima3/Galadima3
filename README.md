@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm John Galadima</h1>
 <h3 align="center">Blockchain & Mobile Developer</h3>
 
-- 🌱 I’m currently learning **Solidity & Blockchain Development**
+- 🌱 I’m currently learning **Rust Development & Flutter**
 
 - 📝 I regularly write articles on [https://hackmd.io/@KaynonX3](https://hackmd.io/@KaynonX3)
 
-- 📫 How to reach me **abrahamgaladima300@gmail.com**
+- 📫 How to reach me **Galadima3@protonmail.com**
 
 
 
@@ -19,10 +19,6 @@
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-
-  <a href="https://soliditylang.org" target="_blank" rel="noreferrer">
-    <img src="https://docs.soliditylang.org/en/latest/_images/solidity_logo.svg" alt="solidity" width="40" height="40"/>
   </a>
 </p>
 
