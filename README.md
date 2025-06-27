@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Galadima</h1>
-<h3 align="center">Blockchain & Mobile Developer</h3>
+<h3 align="center">Mobile Developer</h3>
 
 - 🌱 I’m currently learning **Rust Development & Flutter**
 
